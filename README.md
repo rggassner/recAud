@@ -1,2 +1,2 @@
 # recAud
- Audio automatic recording in Python
+ Automatic audio recording in Python
